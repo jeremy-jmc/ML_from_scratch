@@ -1,0 +1,17 @@
+
+C2:
+
+OBJETIVO:
+    extender la idea/concepto de regresion lineal univariable para 2 casos
+    - regresion con multiples variables
+    - logistica idea: clasificacion binaria
+
+Sigmoide
+1/(1 + e^-z)
+
+objetivo es encontrar el mejor z que clasifique los training_samples
+
+definamos como una regresion lineal
+z = w0 * 1 + w1 * x1 + ... + wn*xn
+
+encontrar la mejor combinacion de W tal que el error de la funcion sigmoide sea el minimo
