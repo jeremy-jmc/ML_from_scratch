@@ -4,3 +4,4 @@ todo/
 fruits_dataset/
 *.zip
 *.tar
+trash.py
