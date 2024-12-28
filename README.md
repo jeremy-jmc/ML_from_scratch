@@ -24,3 +24,12 @@ This algorithm minimize the error of some function by iteratively moving in the 
 ## **Learning rate**
 
 The learning rate is a tuning parameter in an optimization algorithm that determines the step size at each iteration while moving toward a minimum of a cost function
+
+# Bibliography
+
+- UvA Machine Learning 
+- Machine Learning Mastery
+- Daniel Bourke
+- Andrew Ng
+- Andrej Karpathy
+- Jeremy Jordan
